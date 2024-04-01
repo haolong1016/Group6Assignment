@@ -1,0 +1,17 @@
+/* This is a comment in CSS */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    color: maroon;
+}
+
+p {
+    font-size: 16px;
+}
+
+
